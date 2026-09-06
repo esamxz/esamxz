@@ -1,7 +1,7 @@
 <h1 align="center">Esam Krab</h1>
 
 <p align="center">
-  Automation specialist and security professional based in Morocco.<br>
+  AI systems and offensive security, based in Morocco.<br>
   I build systems and break them, so the ones I ship hold up.
 </p>
 
@@ -16,14 +16,13 @@
 
 ### What I do
 
-I design AI agents and workflow automation for businesses, and I do offensive
+I build AI agents and workflow automation for businesses, and I do offensive
 security work as a pentester and red teamer. The two are one practice: a security
-background changes how you build automation, because you plan for the failure
-modes and edge cases most builders skip.
+background changes how you build systems, because you plan for the failure modes
+and edge cases most builders skip.
 
-- **AI and automation.** AI agents, workflow automation, and integrations that cut manual work out of real business processes. Lead qualification agents, operational automations, WhatsApp integrations, document and data pipelines.
+- **AI systems and automation.** AI agents, workflow automation, and integrations that cut manual work out of real business processes. Lead qualification agents, operational automations, document and data pipelines, RAG, LLM behavior work.
 - **Offensive security.** Pentesting, red teaming, and security assessments. Web and API exploitation, reverse engineering, recon automation. Working toward OSCP.
-- **Web.** Framer and Figma sites wired into automation on the backend.
 
 ### Stack
 
@@ -32,9 +31,15 @@ modes and edge cases most builders skip.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="40" alt="Claude" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="40" alt="OpenAI" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" height="40" alt="Ollama" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hugging-face.svg" height="40" alt="Hugging Face" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" height="40" alt="Python" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" height="40" alt="FastAPI" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" height="40" alt="TypeScript" />
   &nbsp;
@@ -46,18 +51,18 @@ modes and edge cases most builders skip.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" height="40" alt="Kali Linux" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireshark.svg" height="40" alt="Wireshark" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/playwright.svg" height="40" alt="Playwright" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postman.svg" height="40" alt="Postman" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/figma.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" height="40" alt="TryHackMe" />
 </p>
 
-- **Automation:** n8n, Make, GoHighLevel, Trigger.dev
-- **AI:** Claude Code and AI coding agents, RAG, LLM behavior work
-- **Security:** Burp, Nuclei, Katana, Playwright, Gitleaks, WSL2 tooling for recon automation; practice on HackTheBox, TryHackMe, pwn.college
+- **AI and automation:** Claude Code and AI coding agents, RAG, LLM behavior work, n8n, Make, GoHighLevel, Trigger.dev
+- **Security:** Burp, Nuclei, Katana, Playwright, Gitleaks, Wireshark, WSL2 tooling for recon automation; practice on HackTheBox, TryHackMe, pwn.college
 - **Languages:** Python, JavaScript, TypeScript, Node.js
-- **Web:** Framer, Figma
 - **Certifications:** Network+ (held). Security+ and OSCP in progress.
 
 ### Background
