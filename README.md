@@ -9,7 +9,7 @@
   <a href="https://esamkrab.framer.website/">Portfolio</a> &nbsp;&bull;&nbsp;
   <a href="www.linkedin.com/in/issam-krab">LinkedIn</a> &nbsp;&bull;&nbsp;
   <a href="https://x.com/esamkrab1">X</a> &nbsp;&bull;&nbsp;
-  <a href="https://www.instagram.com/esamkrab">Instagram</a>
+  <a href="https://tryhackme.com/p/esamxz">tryhackme</a>
 </p>
 
 ---
