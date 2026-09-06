@@ -1,25 +1,28 @@
 <h1 align="center">Esam Krab</h1>
 
 <p align="center">
-  AI systems and offensive security, based in Morocco.<br>
-  I build systems and break them, so the ones I ship hold up.
+  AI systems and offensive security<br>
+  I build AI systems & I hack things.
 </p>
 
 <p align="center">
   <a href="https://esamkrab.framer.website/">Portfolio</a> &nbsp;&bull;&nbsp;
-  <a href="https://www.linkedin.com/in/esam-krab-224899306">LinkedIn</a> &nbsp;&bull;&nbsp;
+  <a href="www.linkedin.com/in/issam-krab">LinkedIn</a> &nbsp;&bull;&nbsp;
   <a href="https://x.com/esamkrab1">X</a> &nbsp;&bull;&nbsp;
   <a href="https://www.instagram.com/esamkrab">Instagram</a>
 </p>
 
 ---
 
-### What I do
+### whoami
 
-I build AI agents and workflow automation for businesses, and I do offensive
-security work as a pentester and red teamer. The two are one practice: a security
-background changes how you build systems, because you plan for the failure modes
-and edge cases most builders skip.
+I've been building things on the internet since high school, mostly because I couldn't stop being curious about how everything worked under the hood. That curiosity turned into a career.
+
+Now I help businesses move faster, stay secure, and actually use the tools they're paying for. Not as a vendor, but as someone who understands your business well enough to know where the real problems are, and what fixing them actually gets you.
+
+I work across automation, AI systems, and security. Not because I spread myself thin, but because in practice, those three things are almost always connected. And when one person understands all of it, you stop getting solutions that create new problems somewhere else.
+
+If something I build touches your business, it gets tested until I'm confident it won't embarrass either of us.
 
 - **AI systems and automation.** AI agents, workflow automation, and integrations that cut manual work out of real business processes. Lead qualification agents, operational automations, document and data pipelines, RAG, LLM behavior work.
 - **Offensive security.** Pentesting, red teaming, and security assessments. Web and API exploitation, reverse engineering, recon automation. Working toward OSCP.
@@ -61,8 +64,8 @@ and edge cases most builders skip.
 </p>
 
 - **AI and automation:** Claude Code and AI coding agents, RAG, LLM behavior work, n8n, Make, GoHighLevel, Trigger.dev
-- **Security:** Burp, Nuclei, Katana, Playwright, Gitleaks, Wireshark, WSL2 tooling for recon automation; practice on HackTheBox, TryHackMe, pwn.college
-- **Languages:** Python, JavaScript, TypeScript, Node.js
+- **Security:** Burp, Nuclei, Katana, Playwright, Gitleaks, Wireshark, practice on HackTheBox, TryHackMe, pwn.college
+- **Languages:** Python, JavaScript, TypeScript, Node.js, C, SQL, 
 - **Certifications:** Network+ (held). Security+ and OSCP in progress.
 
 ### Background
