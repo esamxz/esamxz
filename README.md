@@ -54,6 +54,11 @@ If something I build touches your business, it gets tested until I'm confident i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" height="40" alt="Kali Linux" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" 
+  height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" height="40" alt="claude code" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postman.svg" height="40" alt="Postman" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tryhackme.svg" height="40" alt="TryHackMe" />
