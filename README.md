@@ -65,6 +65,53 @@ If something I build touches your business, it gets tested until I'm confident i
 - **Languages:** Python, JavaScript, TypeScript, Node.js, C, SQL, 
 - **Certifications:** Network+ (held). Security+ and OSCP in progress.
 
+### Security tooling
+
+**Recon and enumeration**
+
+![Nmap](https://img.shields.io/badge/Nmap-1a1a2e?style=flat&logo=nmap&logoColor=00b3e6)
+![Amass](https://img.shields.io/badge/Amass-1a1a2e?style=flat)
+![Subfinder](https://img.shields.io/badge/Subfinder-1a1a2e?style=flat)
+![ffuf](https://img.shields.io/badge/ffuf-1a1a2e?style=flat)
+![Gobuster](https://img.shields.io/badge/Gobuster-1a1a2e?style=flat)
+![Nuclei](https://img.shields.io/badge/Nuclei-1a1a2e?style=flat)
+![Katana](https://img.shields.io/badge/Katana-1a1a2e?style=flat)
+
+**Web and API**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat&logo=owasp&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-1a1a2e?style=flat)
+![Nikto](https://img.shields.io/badge/Nikto-1a1a2e?style=flat)
+![WPScan](https://img.shields.io/badge/WPScan-1a1a2e?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Exploitation and passwords**
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-1a1a2e?style=flat)
+![Hashcat](https://img.shields.io/badge/Hashcat-1a1a2e?style=flat)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-1a1a2e?style=flat)
+
+**Active Directory**
+
+![BloodHound](https://img.shields.io/badge/BloodHound-1a1a2e?style=flat)
+![Impacket](https://img.shields.io/badge/Impacket-1a1a2e?style=flat)
+![NetExec](https://img.shields.io/badge/NetExec-1a1a2e?style=flat)
+![Responder](https://img.shields.io/badge/Responder-1a1a2e?style=flat)
+
+**Reversing and traffic**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-FF4A4A?style=flat&logo=ghidra&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB_/_pwndbg-1a1a2e?style=flat&logo=gnu&logoColor=white)
+
+**Environment**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+
 ### Background
 
 I found cybersecurity in my first year of high school and taught myself Linux,
