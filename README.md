@@ -34,8 +34,6 @@ If something I build touches your business, it gets tested until I'm confident i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="40" alt="Claude" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai.svg" height="40" alt="OpenAI" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ollama.svg" height="40" alt="Ollama" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hugging-face.svg" height="40" alt="Hugging Face" />
@@ -56,8 +54,6 @@ If something I build touches your business, it gets tested until I'm confident i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" 
   height="40" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" height="100" alt="claude code" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postman.svg" height="40" alt="Postman" />
   &nbsp;
