@@ -57,7 +57,7 @@ If something I build touches your business, it gets tested until I'm confident i
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" 
   height="40" alt="Git" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" height="40" alt="claude code" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" height="100" alt="claude code" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postman.svg" height="40" alt="Postman" />
   &nbsp;
