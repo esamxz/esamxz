@@ -12,12 +12,6 @@
   <a href="https://www.instagram.com/esamkrab">Instagram</a>
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/esamxz">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/esamxz.png" alt="TryHackMe: esamxz" />
-  </a>
-</p>
-
 ---
 
 ### What I do
